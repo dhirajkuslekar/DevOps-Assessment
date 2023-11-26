@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: devops-webapp
-        image: a1e5f5dc3cb7:latest 
+        image: devops-webapp:latest 
         ports:
         - containerPort: 8080 
